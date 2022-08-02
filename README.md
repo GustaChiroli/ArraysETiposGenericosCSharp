@@ -1,0 +1,1 @@
+Parte 7 do projeto do curso da Alura sobre C#, estudo sobre arrays, classes e mais

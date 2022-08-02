@@ -1,0 +1,7 @@
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\gustavo.chiroli\Desktop\AulasBack\AluraCSharpParte7\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
